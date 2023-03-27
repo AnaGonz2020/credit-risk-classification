@@ -25,4 +25,4 @@ In this repo are the completed challenge files.
 # **Results**
 
 Results are given in detail in the *Credit_Risk* folder in this repo.
-You can access the analysis directly using this link : [ Analysis Report]()
+You can access the analysis directly using this link : [ Analysis Report](https://github.com/AnaGonz2020/credit-risk-classification/blob/main/Credit_Risk/report_analysis.md)
